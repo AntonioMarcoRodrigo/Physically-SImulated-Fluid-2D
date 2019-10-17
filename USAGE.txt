@@ -1,0 +1,5 @@
+To Execute:
+
+1) Open the Visual Studio project using the link called "Fluid Simulator"
+
+2) Press ctrl+F5 in Visual Studio to execute
